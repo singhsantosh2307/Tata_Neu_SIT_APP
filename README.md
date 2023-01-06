@@ -13,5 +13,9 @@ Tata Neu App scripts with Appium and Selenium with Python Programming Language.
 
 The following are python 3 libraries that need to be installed on the machine in order to execte properly. These requirements can also be found in the `requirements.txt` located in the project directory. 
 
+### Link of Headspin Platform Waterfall UI
+
+https://ui-dev.headspin.io/sessions/fa409f7d-8d9f-11ed-a943-149d9983a28c/waterfall
+
 
   
