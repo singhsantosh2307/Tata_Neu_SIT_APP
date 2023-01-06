@@ -55,11 +55,6 @@ def swipeDown():
     actions.w3c_actions.pointer_action.release()
     actions.perform()
 
-def switchToWebView():
-    print(driver.contexts)
-    webview = driver.contexts[0]
-    driver.switch_to.context(webview)
-
 def switch_to_web_context(window_title= None, window_index=None ):
         """
         switching to Web Context
@@ -77,10 +72,6 @@ def switch_to_web_context(window_title= None, window_index=None ):
         driver.switch_to.context(context_list[-1])
         print("Current Context : ",driver.current_context)
         print(driver.title)    
-
-def switchToNativeApp():
-    driver.switch_to.context('NATIVE_APP')
-
 
 try:
     wait = WebDriverWait(driver, 15)
