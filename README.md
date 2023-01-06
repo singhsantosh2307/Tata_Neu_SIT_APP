@@ -3,11 +3,11 @@
 Tata Neu App scripts with Appium and Selenium with Python Programming Language.
 
 
-###Supported Evironment
+### Supported Evironment
 
-  -Test Automation Tool: Selenium
-  -Programming language: Python
-  -Supported Operating Systems: MacOS, Ubuntu etc.
+- Test Automation Tool: Selenium, Appium
+- Programming language: Python
+- Supported Operating Systems: MacOS, Ubuntu etc.
   
 ### Libraries
 
